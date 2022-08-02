@@ -4,7 +4,8 @@ Store API built using Node.js with Express and Mongoose. Code written with guida
 
 # API documentation:
 Endpoint: localhost:portnumber/api/v1/products
-default portnumber used on localhost is 3000
+
+Default portnumber used on localhost is 3000
 
 API Search Parameters:
 | Parameter | Description | Type|
