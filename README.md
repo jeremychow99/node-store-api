@@ -1,11 +1,11 @@
 
 # About:
-Store API built using Node.js with Express and Mongoose. Code written with guidance from John Smilga's NodeJS Tutorial and Projects Course.
+Store API built using Node.js with Express and Mongoose. Code written with guidance from an online tutorial course.
 
 # API documentation:
-Endpoint: localhost:<portnumber>/api/v1/products
+Endpoint: localhost:portnumber/api/v1/products
 
-Default port is configured to 3000 in app,js
+Default port is configured to 3000 in app.js
 
 API Search Parameters:
 | Parameter | Description | Type|
